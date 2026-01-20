@@ -13,4 +13,9 @@ class CalculatorTest {
     void divide_works() {
         assertEquals(5, Calculator.divide(10, 2));
     }
+
+    @Test
+    void divide_decimal() {
+        assertEquals(3, Calculator.divide(10, 3));
+    }
 }

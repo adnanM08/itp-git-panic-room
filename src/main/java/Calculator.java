@@ -7,7 +7,8 @@ public class Calculator {
 
     public static int divide(int a, int b) {
     // BUG: falscher Divisor -> Division durch 0
-    return a / 0;
+    // LOESUNG: Richtigen Divisor (b) einfügen
+    return a / b;
 }
 
 }
