@@ -19,3 +19,8 @@
 
 **Datei:** debug.log  
 **Begründung:** Die Datei hat keinen nutzen.
+
+### 4 | Datei wiederherstellen
+**Lösungsweg:** Mit dem Command "git restore" habe ich die Datei wiederhergestellt.  
+**Quelle:** https://stackoverflow.com/questions/6624036/restore-file-from-old-commit-in-git
+
