@@ -1,5 +1,7 @@
 # Panic Room
 
+**Team:** Last Minute Recycling | Adnan Muzaferovic, Yionees Lacle, Martin Rammerstorfer
+
 **Ziel:** Das Programm fehlerfrei machen.
 
 ### 1 | Tests sind Rot
@@ -24,3 +26,4 @@
 **Lösungsweg:** Mit dem Command "git restore" habe ich die Datei wiederhergestellt.  
 **Quelle:** https://stackoverflow.com/questions/6624036/restore-file-from-old-commit-in-git
 
+**Fazit:** Wir haben gelernt, wie wir mit Git effektiv Probleme bzw. Bugs lösen können und eine saubere Struktur aufbauen können.
