@@ -14,3 +14,8 @@
 **Begründung:** Die Commit Message sagt nahezu nichts über den Commit aus. Man weiß nicht was wie wo geändert wurde.  
 **Alternative:**
 - "divisor in divide Methode geändert"
+
+### 3 | Repository aufräumen
+
+**Datei:** debug.log  
+**Begründung:** Die Datei hat keinen nutzen.
